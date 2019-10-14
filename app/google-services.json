@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605966897963",
+    "firebase_url": "https://adsloadermanager.firebaseio.com",
+    "project_id": "adsloadermanager",
+    "storage_bucket": "adsloadermanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605966897963:android:7d5f9866836cba9e856b6e",
+        "android_client_info": {
+          "package_name": "com.adsloadmanager.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605966897963-hmv81n5gdvioc7vhsm8g1t5he61us7ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adsloadmanager.android",
+            "certificate_hash": "69416749f54b2670a7857543973fcc1286be5d5e"
+          }
+        },
+        {
+          "client_id": "605966897963-c7ononlc9nug0eolatdrijck671tgq7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA92Y5GQLqUu6lEFP758k5u8SoGd0NvYh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605966897963-c7ononlc9nug0eolatdrijck671tgq7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
